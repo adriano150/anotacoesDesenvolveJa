@@ -1,0 +1,10 @@
+Multa:
+	Fatura do cliente x 0,02
+
+Juros:
+	Fatura do cliente x 0,0333 x Quantidade de dias em atraso ÷ 100
+
+Fatura:	321,50
+Multa:	6,43
+Juros:	1,07
+Total:	329,00

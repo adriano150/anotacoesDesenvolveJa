@@ -1,0 +1,18 @@
+Ligação festiva
+
+- Não tem medidor
+- Conta é gerada antecipada
+- O cliente deve solicitar 3 dias úteis antes do evento para ligações
+  sem estudo e 30 dias antes com estudo
+- Não tem taxa
+- Débito no CPF é impeditivo
+
+Ligação provisória
+
+- Tem medidor
+- Local provisório
+- Cliente deve informar um outro endereço para entrega da conta
+- Duração de mais de 30 dias
+- Tem taxa
+- Cliente deve preparar o local
+- Débito no CPF é impeditivo
