@@ -1,0 +1,45 @@
+Nome:                                                                                                  1° Primeira coluna: Número do medidor
+
+                                                                                                       2° Segunda coluna: Data que foi feita a leitura
+
+Número de Instalação:                                                  Resultado de leitura>           3° Terceira Coluna: Constante                               
+
+CPF/CNPJ:                                                                                              4° Quarta Coluna: Nada                                          
+
+Código Do Cliente:                                                                                     5° Quinta coluna: Tipo de leitura                                
+
+Número Do Medidor:                                      
+
+Endereço:                                                                                             01= Leitura real feita por um funcionario de light
+
+                                                                        Tipos de leituras>            02= Feita por um cliete (ele vai irformar) 
+Informar o protocolo Após confirmar o endereço                                                         
+                                                                                                      03= Não consegue fazer a leitura/ Vai gerar uma media e vai puxar o
+                                                                                                          consumo feito nos meses anteriores parar gerar uma cobrança
+
+Contrato: Data de abartura (Início da responsabilidade)
+        : Se Está Cadastrado em fatura digital (Adesão E-mail/sms)                                    Contato informação:
+                                                                                                      É o registro das informações passadas ao cliente.
+                                                                                                      É utilizado quando não realiza o serviço e só é passado informações.
+                                                                                                      Devemos registrar de acordo com o assunto informado. 
+                                                                                                      Quando se tratar de mais de um assunto devemos registrar em OUTRAS INFORMAÇÕES
+                                                                                                      Ex: Cliente pediu informações sobre troca de nome e alteração de carga.					
+Classes: 1001 - Residencial
+       : 3001 - Comercial
+       : 2001 - Industrial                                                                            Lado esquerdo azul é a barra de navegação
+       : 1002 até 1007 - Baixa renda                                                                  Zinicio= Ponto de partida. Resumo dos dados do cliente.
+
+CNAE - Atividade exercida no local.        
+Obs: Sempre olhar as datas para saber se a pessoa mudou ou não "classe"                               PN Ficticio: 7008000000
+
+Lote vai estar sempre em uni leit (são os dois primeiros números)
+Medidor convencional é BT COLETOR
+
+F: Fase
+A: Amperes
+V: Voltz	
+CTE: Constante
+Constante: É o número de voltas que o disco dá para avançar 1kw.     kw: Kilo watts
+
+
+

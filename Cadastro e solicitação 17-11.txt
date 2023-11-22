@@ -1,22 +1,27 @@
 Cadastro:
-- Troca de nome na conta
-- É a mudança do nome do responsável pela instalação
-	Ex: João se mudou para uma residência que já tem medidor e deseja colocar
-	    o medidor em seu nome
-
-    Quem pode solicitar?
-	  - Somente o novo responsável pela instalação ou terceiro devidamente autorizado
-- Débitos até R$2999,99 não é necessário comprovar isenção
-- Débitos acima de R$3.000.00 é necessário comprovar isenção
-- Quando o cliente entra em contato pedindo a troca, devemos consultar se ele tem cadastro
-  com a Light, se sim passar protocolo e atualizar, depois consultar débitos do CPF
-
-Quando o cliente não tem contato com a Light, devemos gerar o protocolo e contato informação
-no PN ficticio
+- Troca de nome na conta.
+-É a mudança do nome do responsável pela instalação
+      Ex: João se mudou para uma residência que ja tem medidor e deseja colocar
+          o medidor em seu nome
 
 
-			TROCA DE NOME
-Contato informação para troca de nome é: CAD - Troca de titularidade
+  Quem pode solicitar?
+     - Somente o novo responsável pela instação ou terceiro devidamente autorizado.
+- Débitos até R$2.999,99 não é necessário comprovar isenção
+- Débitos acima de R$3.000,00 é necessário comprovar isenção
+- QUando o cliente entra em contato pedindo a troca, devemos consultar se ele tem cadastro
+  com a light, se sim passar protocolo e atualizar, depois consultar débitos do CPF.
+
+- Quando o Cliente não tem cadastro com a light, devemos gerar o protocolo e contato informação no pm ficticio.
+
+                               TROCA DE NOME
+Contato informação para trocar de nome é : CAD- Troca de Titularidade.
+
+- Serviço de troca de nome não tem taxa.
+
+no caso de isenção são com 5 dias
+
+prazo normalmente é entre 15 a 45 dias para a primeira fatura chegar. 
 
 Encerramento de contrato:
 - É o encerramento da responsabilidade da unidade consumidora
@@ -25,17 +30,28 @@ Quem pode solicitar:
 - Somente o titular
 Débitos:
 - Não é impeditivo
-Call center:
+Call Center:
 - Realiza encerramento
 Leitura:
 - É necessário informar a leitura do medidor ou optar pela leitura estimada (Média de 12 meses)
-Conta final:
+Conta Final:
 - Cliente precisa informar um novo endereço para entrega da conta final
+- A conta final deve ser enviada por e-mail, empressa ou , na impossibilidade, solicitar o endereço para que a conta final seja entregue pelos correios
+- a light so remove o medidor se apresentar um motivo plausivel ex: demolição
+- aposto o encarramento a pessoa perde a tarifa social
+- Encerramento de contrado não tem taxa.
+Contato informação para encerramento : CAD- Encerramento de contrato.
+
 
 Alteração de classe:
-- É a alteração da classe tarifáfia da unidade consumidora
+- É a alteração da classe tarifária da unidade consumidora
 
-Call center: Só realiza alteração se for para voltar a ser residencial
-		Ex: José esta cadastrado como classe comercial, mas informa que é uma residência
-Para mudar de residência para qualquer outra classe, somente na agência virtual, Lia e comercial
+Call Center: Só realiza altereção se for para voltar a ser residencial
+         Ex: José está cadastrado como classe comecial, mas informa que é uma residência.
+Para mudar de residencial para qualquer outra classe, somente na agência virtual, Lia e comercial.
+Não tem taxa
+
+
+
+
 

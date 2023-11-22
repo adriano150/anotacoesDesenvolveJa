@@ -1,0 +1,24 @@
+2241: É uma base de pesquisa cadastral
+
+Consulta/ cadastro pessoal/ consultar cadastro de pessoal <<<< Consultar um funcionario(a) da light
+
+Cadastro pessoal: Consultar se a pessoa é funcionario(a) da light.
+
+Fornecimento de informações: Sempre confirmar os dados do titular.
+(Em caso de terceiros, o titular tem que esta presente para confirmação de dados).
+
+Retificação de documentos: Cadastro/ Retificação de nome e documentos. 
+Colocar oque precisa ser retificado (nome, documento e fazer uma descriçao do que está sendo solicitado).
+
+Ambiente de documentos:
+      Notas de serviço: Notas abertas para o cliente, sejam elas comercial ou emergencial
+     
+      Ordem de serviço: Todas as notas de ressacimento abertas.
+Pend: Pendente
+
+
+
+
+
+
+

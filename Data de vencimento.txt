@@ -1,0 +1,37 @@
+Data de vencimento:
+
+
+A data de apresentação da conta possui, no mínimo, cinco dias de antecedência para a data de pagamento.
+
+Data Fixa - A data de apresentação da conta possui, no mínimo, cinco dias de antecedência para a data de pagamento.
+Cliente poderá escolher entre, pelo menos, 6 opções de data de vencimento.
+
+Data Móvel - Segue o cronograma de faturamento da Light pois o cliente não escolheu uma data fixa.
+
+
+So pode fazer uma nova mudança de vencimento após 12 meses
+
+
+
+Alteração de vencimento  -  é realizada no ato do atendimento.
+
+
+Prazo: Até 5 dias úteis
+
+
+PORQUE RECEBI DUAS FATURAS COM A MESMA DATA DE VENCIMENTO?
+A emissão de 2 faturas de meses distintos, com a mesma data de vencimento ocorre nas seguintes situações:
+
+Clientes que solicitaram data fixa. Poderão receber faturas de meses diferentes com a mesma data de vencimento,
+ porque as leituras são feitas no mínimo 27 e no máximo 33 dias de faturamento.
+
+Se o sistema identificar que não possui tempo hábil de 5 dias uteis entre a apresentação da conta e a data fixa, sendo estendida para o próximo mês.
+Podendo parcelar ou alterar a data das próximas faturas, se houver 12 meses após a última alteração. 
+
+
+CAD - Data de Vencimento da Conta
+
+
+Cadastro/ data de vencimento/ prosseguir/ opções de vecimentos/ Informar ao cliente as datas disponiveis/ 
+
+

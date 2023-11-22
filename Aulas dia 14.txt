@@ -1,0 +1,49 @@
+COM ESTUDO
+
+- Mais de 4 medidores instalados no memso objeto de ligação (poste)
+- Rede aérea ou subterreânea
+- Carga maior de 24k Kva
+- Distância do fio do poste para o medidor maior que 30m
+- Entrada coletiva
+- Disjuntor maior que 63A
+
+
+SEM ESTUDO
+
+- Até 4 medidores instalados no mesmo poste
+- Somente rede aérea
+- Carga até 24 kva
+- Distância do fio do poste para o medidor ate 30m
+- Somente entreada individual
+- Disjuntor até 63A
+
+
+LIGAÇÃO NOVA:
+
+- Tem medidor de energia
+
+
+Call center:
+
+- So realiza agendamento
+
+Débitos no CPF: É impeditivo
+
+Preparação do local: É de responsabilidade do cliente
+
+Lide: Realizar a vistoria e instalar o medidor
+
+Expansão: Realiza o esutdo das condições técnicas e libera para o lide instalar o medidor
+
+O serviço de ligação nova pode ser solicitado para qualquer classe
+
+Vistoria do local para a ligação e instalação do medidor:
+- Área urbana em até 5 dias úteis
+- Área rural em até 10 dias úteis
+
+
+Ligação festiva:
+- Ligação para festas eeventos que tenham duração até 30 dias EX -> Criscos, parques, shows e festas.
+- Não tem medidor
+- Cliente informa a carga, equipamentos e tempo de duração do evento e a Light gera a conta, na hora da solicitação para pagamento.
+Após o pagamento, é criada a solicitação.

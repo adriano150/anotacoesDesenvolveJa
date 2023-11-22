@@ -1,0 +1,29 @@
+Calculo de consumo:
+
+Leitura Atual - Leitura anterior x constante = Consumo
+        Ex: 1590 - 1320 x 1 = 270kw
+           Atual - Anterior   1- constante
+
+      Atual: 20/11/2023      19/10/2023         270/30= 9kw
+Ver quantos dias se passou de uma leitura de um mes para o outro.E dividir o consumo do mes por a quantidade de dias da leitura.
+
+                                                                            data:
+Leitura Atual: 1615                                                         15/11/2023
+Leitura Anterior: 1600                                                      12/10/2023
+constante: 10                                                               33 dias
+
+1615 - 1600= 15x10 = 150kw                                                  150÷33= 4.54kw
+Consumo mensal                                                              consumo diario
+
+
+
+
+
+                                                                            Data:
+Leitura atual: 1483                                                         18/09/2023
+Leitura anterior: 1413                                                      20/08/2023
+constante: 3                                                                30 dias
+
+
+1483 - 1413= 70x3 = 210kw                                                   210÷30= 7kw
+Consumo mensal                                                              consumo diario

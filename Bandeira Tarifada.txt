@@ -1,0 +1,31 @@
+Bandeira Tarifaria:
+
+Define a dificuldade de gerar energia dependendo da quantidade de chuva.
+A bandeira varia de acordo com o custo de geração de energia, valido para todo
+o brasil exeto "Roraima". Teve inicio em janeiro de 2015.
+
+A bandeira será calculada sobe o consumo do cliente.
+ pode ocorrer de cliente ser cobrado por 2 bandeiras.
+Quando os reservatórios estão abaixo dos níveis permitidos,
+utilizamos os usinas termoelétricas que é mais cara porque são movidas a combustível.
+
+
+Canais de atendimentos:
+
+Agência Virtual
+Call Center 
+Agências Comerciais 
+Redes Sociais 
+
+
+
+Cálculo da bandeira tarifária
+
+Como é calculada a bandeira tarifária nas faturas com cobrança somente do custo de disponibilidade?
+
+Apesar do custo de disponibilidade considerar 100KWh, a bandeira considera o consumo da unidade consumidora, ou seja, para um medidor trifásico, se o cliente consumiu 35kWh ele pagará o custo de disponibilidade de 100kWh, mas a bandeira será calculada apenas sobre o consumo de 35kWh.
+
+
+Reclamações : AX72 
+
+Contato informação: FAT - Tarifas/Classificação/Ramo negócio

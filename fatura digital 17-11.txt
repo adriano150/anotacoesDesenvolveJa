@@ -1,0 +1,33 @@
+Fatura digital:
+É o envio da 1º via da fatura por e-maile/ou documento de cobranças
+
+
+Canal de atendimento
+
+Wpp
+Agêncial virtual
+call center
+
+Primeira conta apos a solicitação a fatura vai chegar no email e em casa, apos a segunda fatura vai chegar so no email.
+
+
+reenvio- o email da fatura digital e o documento de cobrança serão automaticamente reenciados por até 3 tentativas no memsmo
+   de faturamento, com intervalos de 24 horas. Se no proximo meso erro persistir, na terceira tentativa o cliente sera descadastrado.
+
+
+descadastramento automatico- o cliente é descadastrado automaticamente no serviço, caso haja falha no envio do email de congratulação.
+
+Prazo:
+
+
+
+
+contato informação- CAD- Contas por E-mail
+
+
+passo a passo:
+Cadastro/ adesão de email e SMS/ Primeira via da fatura/ E-mail.
+Cadastro/ adesão de email e SMS/ Remover a primeira via da fatura/ avançar e confirmar.
+
+
+

@@ -1,10 +1,22 @@
-Multa:
-	Fatura do cliente x 0,02
+ Multa:
+
+Fatura do cliente x 0,02 ou
+fatura do cliente x2÷100        Ex 80x0,02=1,60
+
+
 
 Juros:
-	Fatura do cliente x 0,0333 x Quantidade de dias em atraso ÷ 100
 
-Fatura:	321,50
-Multa:	6,43
-Juros:	1,07
-Total:	329,00
+Fatura do cliente x 0,0333 x quantidade de dias de em atraso.
+Ex: 80 x 0,0333 x 5(dias)= 13,32
+              ÷ 100  
+
+
+Fatura: 321,50
+Venceu: 11/11/2023
+Pagou: 21/11/2023
+
+321,50 x 0,02= 6,43: Multa
+321,50 x 0,0333 x 10= 107,05 ÷ 100 = 1,07
+Ao total: 321,50 + 6,43 + 1,07= 329,00
+Total Pago Pelo Cliente R$ 329,00

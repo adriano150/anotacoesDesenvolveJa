@@ -1,0 +1,15 @@
+Leitura figurada:
+   Leitura informada pelo cliente
+Leitura Real: Leitura feita pelo leiturista (01)
+Remota: Leitura realizada da central (Telemedição)      01
+Congelado: Leitura parada sem avanço
+Estimado: Leitura realizada pela media dos últimos 12 meses (03)
+
+
+os numeros são as identificações
+
+
+
+
+
+

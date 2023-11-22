@@ -1,0 +1,5 @@
+Regras Pra célula de troca:
+
+- Novo titular tem que ter cadastro com a light
+- No cadastro deve ter RG e CPF
+- Débitos na instalação ate R$2.999,99
