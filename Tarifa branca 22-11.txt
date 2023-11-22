@@ -1,0 +1,27 @@
+Tarifa branca:
+	É uma modalidade de cobrança por faixa de horário
+- Somente o titular pode solicitar
+
+Débito:
+	Impede a solicitação
+
+Tarifa social:
+	Impede a solicitação para o cliente, só pode ter um benefício na instalação
+
+Telemedição:
+	Impede a solicitação
+
+Prazo:
+	30 dias corridos após a adesão
+
+Call center:
+	 Realiza o serviço
+
+Descadastro:
+	Ocorre em até 30 dias corridos
+
+Fora ponta (22:30 as 17:30): Tarifa fica 12,5% mais barata que a tarifa convencional
+
+Cobrança:
+	Ponta (17:30 as 20:30): Nesse periodo a tarifa fica 87% mais cara
+	Intermediário (20:30 as 22:30): Nesse periodo o valor é mais próximo da tarifa convencional
