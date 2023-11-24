@@ -1,0 +1,32 @@
+Micro e Mini Geração:
+
+São fontes de energia renováveis, energia limpa .
+     Ex: Energia solar, Energia eolica.
+
+
+Energia solar:
+
+Durante os dias de sol há maior geração de energia o cliente consome oque gera um tempo real.
+Durante a noite e dias de chuva a geração de energia é menor.
+
+Tusd: Tarifa de uso do sistema de distribuição, energia das Hidrelétricas, tem imposto.
+
+TE: Tarifa de energia, pelo uso de rede e equipamentos de ligtt. 
+
+
+Micro: Casas e etc... abaixo de 75 kwp
+
+Mini: Superior a 75 kwp. ex: estadio de futebol, empresas, condominios e etc...
+
+Geração compartilhada: onde posso 'compartilhar' a energia que sobrou da minha casa para um amigo, outra casa ou algo do tipo.
+
+como identificar uma instalação micro e mini:
+
+1061:Residencial Ger distribuida
+2061: Industrial Ger Distribuida
+3060: Comercial Ger distribuida
+4060: Agropecuária Ger Distribuida
+4069: Resid. RUal Ger distribuida
+5061: P P federal Ger distribuida
+5063: P p Estadual Ger distribuida
+5065: PP municipal Ger Destribuida
